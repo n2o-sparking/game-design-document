@@ -1,0 +1,24 @@
+title: Pinocchio 31.04834939252005
+subtitle: "Дизайн-документ"
+author: "Tomorrow GD"
+date: "\\today"
+
+documentclass: report
+lang: ru
+
+mainfont: "Liberation Sans"
+monofont: "Liberation Mono"
+fontsize: 11pt
+
+numbersections: true
+toc: true
+toc-depth: 1
+toc-title: "Содержание"
+
+colorlinks: true
+linkcolor: blue
+urlcolor: blue
+highlight-style: tango
+
+from: markdown+pipe_tables+footnotes+smart
+standalone: true
