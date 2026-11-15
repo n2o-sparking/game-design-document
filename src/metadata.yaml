@@ -6,8 +6,8 @@ date: "\\today"
 documentclass: report
 lang: ru
 
-mainfont: "Liberation Sans"
-monofont: "Liberation Mono"
+mainfont: "FreeSerif"
+monofont: "FreeMono"
 fontsize: 11pt
 
 numbersections: true
